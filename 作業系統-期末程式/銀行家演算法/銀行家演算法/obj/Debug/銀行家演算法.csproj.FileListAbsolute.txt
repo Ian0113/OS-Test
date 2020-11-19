@@ -1,0 +1,30 @@
+E:\system\desktop\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.exe.config
+E:\system\desktop\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.exe
+E:\system\desktop\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.pdb
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.Form1.resources
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.Properties.Resources.resources
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csproj.GenerateResource.Cache
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.exe
+E:\system\desktop\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.pdb
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.exe.config
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.exe
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.pdb
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.Form1.resources
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.Properties.Resources.resources
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csproj.GenerateResource.Cache
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.exe
+E:\system\desktop\作業系統 - 期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.pdb
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.exe.config
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.exe
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\bin\Debug\銀行家演算法.pdb
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.Form1.resources
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.Properties.Resources.resources
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csproj.GenerateResource.Cache
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.exe
+E:\system\desktop\作業系統-期末程式\銀行家演算法\銀行家演算法\obj\Debug\銀行家演算法.pdb

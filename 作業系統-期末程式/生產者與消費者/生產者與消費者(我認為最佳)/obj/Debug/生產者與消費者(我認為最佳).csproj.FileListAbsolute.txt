@@ -1,0 +1,21 @@
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).csprojResolveAssemblyReference.cache
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).csproj.CoreCompileInputs.cache
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).exe.config
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).exe
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).pdb
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).exe
+C:\Users\un\source\repos\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).pdb
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).exe.config
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).exe
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).pdb
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).csprojResolveAssemblyReference.cache
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).csproj.CoreCompileInputs.cache
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).exe
+E:\system\desktop\生產者與消費者(我認為最佳)\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).pdb
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).exe.config
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).exe
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\bin\Debug\生產者與消費者(我認為最佳).pdb
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).csprojResolveAssemblyReference.cache
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).csproj.CoreCompileInputs.cache
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).exe
+E:\system\desktop\作業系統 - 期末程式\生產者與消費者\生產者與消費者(我認為最佳)\obj\Debug\生產者與消費者(我認為最佳).pdb

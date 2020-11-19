@@ -1,0 +1,20 @@
+E:\system\desktop\Ta學生\Ta學生\bin\Debug\Ta學生.exe.config
+E:\system\desktop\Ta學生\Ta學生\bin\Debug\Ta學生.exe
+E:\system\desktop\Ta學生\Ta學生\bin\Debug\Ta學生.pdb
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.csprojResolveAssemblyReference.cache
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.Form1.resources
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.Properties.Resources.resources
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.csproj.GenerateResource.Cache
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.csproj.CoreCompileInputs.cache
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.exe
+E:\system\desktop\Ta學生\Ta學生\obj\Debug\Ta學生.pdb
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\bin\Debug\Ta學生.exe.config
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\bin\Debug\Ta學生.exe
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\bin\Debug\Ta學生.pdb
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.csprojResolveAssemblyReference.cache
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.Form1.resources
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.Properties.Resources.resources
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.csproj.GenerateResource.Cache
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.csproj.CoreCompileInputs.cache
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.exe
+E:\system\desktop\作業系統 - 期末程式\Ta學生\Ta學生\obj\Debug\Ta學生.pdb

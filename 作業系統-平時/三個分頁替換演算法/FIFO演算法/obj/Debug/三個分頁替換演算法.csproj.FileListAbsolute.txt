@@ -1,0 +1,10 @@
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\bin\Debug\FIFO演算法.exe.config
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\bin\Debug\FIFO演算法.exe
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\bin\Debug\FIFO演算法.pdb
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\三個分頁替換演算法.csprojAssemblyReference.cache
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\FIFO演算法.Form1.resources
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\FIFO演算法.Properties.Resources.resources
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\三個分頁替換演算法.csproj.GenerateResource.cache
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\三個分頁替換演算法.csproj.CoreCompileInputs.cache
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\FIFO演算法.exe
+C:\Users\ianz\Desktop\作業系統-平時\三個分頁替換演算法\FIFO演算法\obj\Debug\FIFO演算法.pdb

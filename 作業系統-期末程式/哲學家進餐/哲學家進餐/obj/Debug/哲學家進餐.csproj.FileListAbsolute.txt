@@ -1,0 +1,20 @@
+E:\system\desktop\哲學家進餐\哲學家進餐\bin\Debug\哲學家進餐.exe.config
+E:\system\desktop\哲學家進餐\哲學家進餐\bin\Debug\哲學家進餐.exe
+E:\system\desktop\哲學家進餐\哲學家進餐\bin\Debug\哲學家進餐.pdb
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.csprojResolveAssemblyReference.cache
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.Form1.resources
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.Properties.Resources.resources
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.csproj.GenerateResource.Cache
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.csproj.CoreCompileInputs.cache
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.exe
+E:\system\desktop\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.pdb
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\bin\Debug\哲學家進餐.exe.config
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\bin\Debug\哲學家進餐.exe
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\bin\Debug\哲學家進餐.pdb
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.csprojResolveAssemblyReference.cache
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.Form1.resources
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.Properties.Resources.resources
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.csproj.GenerateResource.Cache
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.csproj.CoreCompileInputs.cache
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.exe
+E:\system\desktop\作業系統 - 期末程式\哲學家進餐\哲學家進餐\obj\Debug\哲學家進餐.pdb

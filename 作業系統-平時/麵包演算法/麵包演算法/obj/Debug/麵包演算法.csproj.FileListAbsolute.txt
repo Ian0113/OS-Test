@@ -1,0 +1,14 @@
+E:\system\desktop\麵包演算法\麵包演算法\bin\Debug\麵包演算法.exe.config
+E:\system\desktop\麵包演算法\麵包演算法\bin\Debug\麵包演算法.exe
+E:\system\desktop\麵包演算法\麵包演算法\bin\Debug\麵包演算法.pdb
+E:\system\desktop\麵包演算法\麵包演算法\obj\Debug\麵包演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\麵包演算法\麵包演算法\obj\Debug\麵包演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\麵包演算法\麵包演算法\obj\Debug\麵包演算法.exe
+E:\system\desktop\麵包演算法\麵包演算法\obj\Debug\麵包演算法.pdb
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\bin\Debug\麵包演算法.exe.config
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\bin\Debug\麵包演算法.exe
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\bin\Debug\麵包演算法.pdb
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\obj\Debug\麵包演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\obj\Debug\麵包演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\obj\Debug\麵包演算法.exe
+E:\system\desktop\作業系統0605作業\麵包演算法\麵包演算法\obj\Debug\麵包演算法.pdb

@@ -1,0 +1,34 @@
+C:\Users\un\source\repos\旗標演算法\旗標演算法\bin\Debug\旗標演算法.exe.config
+C:\Users\un\source\repos\旗標演算法\旗標演算法\bin\Debug\旗標演算法.exe
+C:\Users\un\source\repos\旗標演算法\旗標演算法\bin\Debug\旗標演算法.pdb
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.csprojResolveAssemblyReference.cache
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.Form1.resources
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.Properties.Resources.resources
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.csproj.GenerateResource.Cache
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.csproj.CoreCompileInputs.cache
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.exe
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.pdb
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.P0.resources
+C:\Users\un\source\repos\旗標演算法\旗標演算法\obj\Debug\旗標演算法.P1.resources
+E:\system\desktop\旗標演算法\旗標演算法\bin\Debug\旗標演算法.exe.config
+E:\system\desktop\旗標演算法\旗標演算法\bin\Debug\旗標演算法.exe
+E:\system\desktop\旗標演算法\旗標演算法\bin\Debug\旗標演算法.pdb
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.Form1.resources
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.P0.resources
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.Properties.Resources.resources
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.csproj.GenerateResource.Cache
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.exe
+E:\system\desktop\旗標演算法\旗標演算法\obj\Debug\旗標演算法.pdb
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\bin\Debug\旗標演算法.exe.config
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\bin\Debug\旗標演算法.exe
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\bin\Debug\旗標演算法.pdb
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.csprojResolveAssemblyReference.cache
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.Form1.resources
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.P0.resources
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.Properties.Resources.resources
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.csproj.GenerateResource.Cache
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.csproj.CoreCompileInputs.cache
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.exe
+E:\system\desktop\旗標演算法 - 複製\旗標演算法\obj\Debug\旗標演算法.pdb
